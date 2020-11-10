@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Hugo\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hugo\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DesignPatternsAssignment.965307106.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Hugo\Projects\DesignPatternsAssignment" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FutureGames" t="Include">
+          <e p="JRPG_Rocket" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="FutureGames.JRPG_Rocket.asmdef" t="Include" />
+              <e p="Heros" t="Include">
+                <e p="Command.cs" t="Include" />
+                <e p="CommandMoveBackward.cs" t="Include" />
+                <e p="CommandMoveForward.cs" t="Include" />
+                <e p="CommandMoveLeft.cs" t="Include" />
+                <e p="CommandMoveRight.cs" t="Include" />
+                <e p="Hero.cs" t="Include" />
+                <e p="HeroCube.cs" t="Include" />
+                <e p="HeroSphere.cs" t="Include" />
+              </e>
+              <e p="Mono" t="Include">
+                <e p="Mono_1.cs" t="Include" />
+                <e p="MonoHeroCube.cs" t="Include" />
+                <e p="MonoHeroSphere.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Lib" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Extensions" t="Include">
+                <e p="RectExtensions.cs" t="Include" />
+                <e p="VectorExtensions.cs" t="Include" />
+              </e>
+              <e p="FutureGames.Lib.asmdef" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Boss" t="Include">
+            <e p="Boss.cs" t="Include" />
+            <e p="BossAttack.cs" t="Include" />
+          </e>
+          <e p="Factory.cs" t="Include" />
+          <e p="Heroes" t="Include">
+            <e p="Attacks" t="Include">
+              <e p="Attack.cs" t="Include" />
+              <e p="Sword.cs" t="Include" />
+              <e p="Unarmed.cs" t="Include" />
+            </e>
+            <e p="Hero.cs" t="Include" />
+            <e p="HeroManager.cs" t="Include" />
+            <e p="ScriptableObjects" t="Include">
+              <e p="Commands" t="Include">
+                <e p="BasicAttackCommand.cs" t="Include" />
+                <e p="Command.cs" t="Include" />
+                <e p="HealCommand.cs" t="Include" />
+              </e>
+              <e p="HeroMovement.cs" t="Include" />
+              <e p="HeroStats.cs" t="Include" />
+            </e>
+            <e p="StateMachine" t="Include">
+              <e p="Idle.cs" t="Include" />
+              <e p="PerformAction.cs" t="Include" />
+              <e p="State.cs" t="Include" />
+              <e p="StateMachine.cs" t="Include" />
+              <e p="WalkingBack.cs" t="Include" />
+              <e p="WalkingForward.cs" t="Include" />
+            </e>
+          </e>
+          <e p="IDamageable.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="DamageText" t="Include">
+              <e p="DamageText.cs" t="Include" />
+              <e p="DamageTextFactory.cs" t="Include" />
+            </e>
+            <e p="HealthBar" t="Include">
+              <e p="HealthBar.cs" t="Include" />
+              <e p="HealthBarFactory.cs" t="Include" />
+            </e>
+            <e p="UIManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ScriptTemplates" t="Include">
+          <e p="78-C# Script-NewBehaviourScript.cs.txt" t="Include" />
+          <e p="79-C# Scriptable object-ScriptableObjectScript.cs.txt" t="Include" />
+          <e p="80-C# Interface-NewInterfaceScript.cs.txt" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="DesignPatternsAssignment.sln" t="IncludeFlat" />
+      <e p="FutureGames.JRPG_Rocket.csproj" t="IncludeRecursive" />
+      <e p="FutureGames.Lib.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
